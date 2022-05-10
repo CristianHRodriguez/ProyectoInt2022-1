@@ -3,6 +3,7 @@
   <head>
     <meta charset="utf-8">
     <title>eCommerce para emprendedores</title>
+    <link rel='stylesheet' type='text/css' media='screen' href='principal.css'>
   </head>
   <body>
     <?php
